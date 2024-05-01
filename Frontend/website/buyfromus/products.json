@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"GOJO - COMBO PACK",
+        "price": 79,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":"NARUTO-HOODIE",
+        "price": 60,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" DRAGON-BALL SPECIAL EDITION",
+        "price": 100,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" DRAGON-BALL CAP",
+        "price": 30,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" AOT-CAP",
+        "price": 30,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" SUKUNA - COMBO",
+        "price": 79,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":"MEGUMI-CASUAL SHOES",
+        "price": 60,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":"GOJO-CASUAL SHOES",
+        "price": 60,
+        "image": "image/8.png"
+    }
+
+]
